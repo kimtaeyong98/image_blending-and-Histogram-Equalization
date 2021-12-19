@@ -1,7 +1,7 @@
 # image_blending-and-Histogram-Equalization
 파이썬을 이용한 이미지 블랜딩과 Histogram Equalization 구현입니다.
 
-1 :  블랜딩 - 손 이미지 위에 눈 이미지를 자연스럽게 배치하는 것이 목표입니다.
+# 블랜딩 : 손 이미지 위에 눈 이미지를 자연스럽게 배치하는 것이 목표입니다.
 
 ![image](https://user-images.githubusercontent.com/63800086/146646091-c68029de-30aa-4bb5-b66f-bfccf85a3c45.png)
 
@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-2 : Color Histogram Equalization - 일반적으로 Histogram Equalization은 1-channel일 경우에 동작하지만 rgb 채널을 입힌 영상으로 출력하는 것이 목표입니다.
+# Color Histogram Equalization : 일반적으로 Histogram Equalization은 1-channel일 경우에 동작하지만 rgb 채널을 입힌 영상으로 출력하는 것이 목표입니다.
 
 (Histogram Equalization은 좁은 contrast 영역을 가지는 영상을 넓은 contrast 이미지 영역을 가지는 영상으로 바꾸는 기술)
 
